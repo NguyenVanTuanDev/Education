@@ -20,6 +20,7 @@ namespace education.Controllers
 
         public AccountController()
         {
+            // this is test
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
